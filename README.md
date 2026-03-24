@@ -3,7 +3,9 @@ Digital Literacy Project Report
 
 Name: Jigyasa  
 Registration Number: 25BCY10166
+
 Branch: B.Tech CSE CYBER SECURITY AND DIGITAL FORENSICS
+
 Year: 1st Year  
 Course Code: CSE0001  
 Course Title: Digital Literacy  
